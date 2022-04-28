@@ -2,9 +2,13 @@
 
 
 //About me
+
 -very experienced with scripting languages and some programming languages, those would be
+
 -Lua, C#, JS
+
 -Frameworks im experienced with are
+
 -Express.JS, Vue, Bootstrap and a few others.
 
 
