@@ -7,10 +7,7 @@
 
 -Lua, C#, JS
 
--Frameworks im experienced with are
-
--Express.JS, Vue, Bootstrap and a few others.
-
+Also experienced with some frameworks
 
 //Contact
 
