@@ -2,16 +2,16 @@
 
 
 //About me
--
-- ~3 years of Lua experience (I can do lua)
-- Backend 
-- no actual way
+-very experienced with scripting languages and some programming languages, those would be
+-Lua, C#, JS
+-Frameworks im experienced with are
+-Express.JS, Vue, Bootstrap and a few others.
 
 
 //Contact
 
 
-- Telegram: JMPAddress
+- Telegram: bolting
 - Discord: ste#3809
 
 
