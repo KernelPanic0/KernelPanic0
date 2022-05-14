@@ -1,16 +1,10 @@
-### KERNELPANIC0
+### Synpaste
 
 
 //About me
-
--very experienced with scripting languages and some programming languages, those would be
-
--Lua, C#, JS
-
-Also experienced with some frameworks
+ Computer
 
 //Contact
-
 
 - Telegram: bolting
 - Discord: ste#3809
