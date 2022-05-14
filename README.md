@@ -7,7 +7,7 @@
 
 //Contact
 
-- Telegram: bolting
+- Telegram: voiceless
 - Discord: ste#3809
 
 
