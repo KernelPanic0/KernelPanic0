@@ -1,10 +1,5 @@
 ### Synpaste
 
-
-//About me
- 
- Computer
-
 //Contact
 
 - Telegram: voiceless
