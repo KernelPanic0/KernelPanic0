@@ -5,7 +5,7 @@ Ukrainian full-stack developer. Interested in web development as well as low-lev
 I run https://breachbase.com
 
 # Contact
-- Telegram: voiceless
+- Telegram: stetheballer
 - Discord: stemane
 
 
